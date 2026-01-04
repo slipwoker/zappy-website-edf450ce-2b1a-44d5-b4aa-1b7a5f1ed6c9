@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://-edf450ce.zappy5.app/sitemap.xml

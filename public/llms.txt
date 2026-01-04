@@ -1,0 +1,57 @@
+# קסם של סיפור — Generative Engine Optimization Map
+
+> A בידור והופעות business.
+
+---
+
+## Pages
+
+### בית
+https://-edf450ce.zappy5.app
+מופעי קסמים קולנועיים ומתוחכמים לילדים, מבוגרים ואירועי חברה. חוויה בלתי נשכחת עם קסמים מרהיבים ואווירה יוקרתית.
+
+### מופעים וחבילות
+https://-edf450ce.zappy5.app/shows
+גלו את מגוון המופעים שלנו: משפחתי, מבוגרים ואירועי חברה. כל מופע מותאם אישית עם תוספות מיוחדות. קבלו הצעת מחיר עכשיו.
+
+### גלריה
+https://-edf450ce.zappy5.app/gallery
+צפו בתמונות מהמופעים שלנו: רגעי קסם, פליאה ושמחה מאירועים משפחתיים, חברות ומופעים למבוגרים. חוו את הקסם דרך העדשה.
+
+### יצירת קשר
+https://-edf450ce.zappy5.app/contact
+צרו קשר עכשיו לקבלת הצעת מחיר מותאמת אישית למופע הקסמים שלכם. מענה תוך 24 שעות. טלפון, אימייל ווואטסאפ.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-edf450ce.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-edf450ce.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-edf450ce.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About קסם של סיפור
+קסם של סיפור is a business in the בידור והופעות industry.
+
+## Target Audience
+ילדים מגיל 6+ ומבוגרים
+
+## Industry
+בידור והופעות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-edf450ce.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-edf450ce.zappy5.app/robots.txt
